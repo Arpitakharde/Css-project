@@ -15,3 +15,7 @@ Welcome to **THE BAKE SHOP**
 # This is the contact page
 ![shreenshot52]("C:\Users\Prime\Pictures\Screenshots\Screenshot (52).png")
 
+<hr>
+
+# Thank you for watching
+
