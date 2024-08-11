@@ -19,8 +19,4 @@ Welcome to **THE BAKE SHOP**
 
 # Thank you for watching
 
-# THE BAKE SHOP
-Welcome to **THE BAKE SHOP**
-# This is the insex page
-![shreenshot48]("C:\Users\Prime\Pictures\Screenshots\Screenshot (48).png")
-<hr>
+
