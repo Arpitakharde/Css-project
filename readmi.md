@@ -1,6 +1,6 @@
 # THE BAKE SHOP
 Welcome to **THE BAKE SHOP**
-# This is the insex page
+# This is the index page
 ![shreenshot48]("C:\Users\Prime\Pictures\Screenshots\Screenshot (48).png")
 <hr>
 
